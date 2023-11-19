@@ -1,0 +1,11 @@
+{"naziv":"Magdalena","kategorija":"House-sitting","date":"12.08.2023","brDana":"10","brOsoba":"1","cena":"100"}
+{"naziv":"Milan","kategorija":"Hostel","date":"12.12.2012.","brDana":"9","brOsoba":"2","cena":"5"}
+{"naziv":"Mallorca","kategorija":"Motel","date":"31.12.2023","brDana":"3","brOsoba":"2","cena":"650"}
+{"naziv":"Shaffhousen","kategorija":"House-sitting","date":"05.05.2024.","brDana":"54","brOsoba":"1","cena":"10"}
+{"naziv":"Croatia","kategorija":"Hotel","date":"22.12.2029.","brDana":"12","brOsoba":"1","cena":"2150"}
+{"naziv":"Sombor","kategorija":"Apartman","date":"12.12.2012.","brDana":"13","brOsoba":"2","cena":"100"}
+{"naziv":"Takovo","kategorija":"Hotel","date":"31.01.2024.","brDana":"10","brOsoba":"2","cena":"50"}
+{"naziv":"Estonia","kategorija":"Hostel","date":"20.08.2003","brDana":"5","brOsoba":"90","cena":"1000"}
+
+{"naziv":"Indija","kategorija":"Hostel","date":"12.12.2012.","brDana":"12","brOsoba":"12","cena":"100"}
+{"naziv":"Beograd","kategorija":"Apartman","date":"12.12.2012.","brDana":"10","brOsoba":"2","cena":"100"}

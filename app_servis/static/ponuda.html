@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>IBooking/Ponuda</title>
+	<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="stil.css" rel = "stylesheet">
+  <script src="opcija.js"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body class="telo">
+
+	
+	<main class="container bg-dark text-white">
+	
+
+		<main class="container-fluid">
+
+			<div class="row">
+				
+				<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+
+					<ul class="navbar-nav">
+	   			 <li class="nav-item active">
+	    		  <a class="nav-link" href="booking.html">Dashboard</a>
+	    			</li>
+	   				 <li class="nav-item">
+				      <a class="nav-link" href="ponuda.html">Ponude</a>
+				    </li>
+				    <li class="nav-item">
+				      <a class="nav-link" href="rezervacije.html">Rezervacije</a>
+				    </li>
+				    <li class="nav-item">
+				      <a class="nav-link" href="informacije.html">Informacije</a>
+				    </li>
+				  </ul>
+
+
+				</nav>
+
+
+			</div>	
+
+	 		 <h1 class= "naslov">IBooking Ponuda</h1>  
+	 		  
+
+	 		 
+
+	 		
+		</main>
+
+		<div class="tabelaDiv">
+
+	 		<table class="tabelaPonude">
+				<thead>
+				  <tr>
+				    <th class="mainKolone">Destinacija</th>
+					<th class="mainKolone">Kategorija</th>
+				    <th class="mainKolone">Datum</th>
+				    <th class="mainKolone">Broj Dana</th>				    
+				    <th class="mainKolone">Broj Osoba</th>
+				    <th class="mainKolone">Cena</th>
+				    <th class="mainKolone">Dodatne Opcije</th>
+				  </tr>
+				  </thead>
+				  <tbody id = "spisak"></tbody>
+			</table>
+		</div>
+
+		<div class="novoDiv">
+			<label>Napravite novu Ponudu: </label>
+			<a href="novaPonuda.html" class="novaPonuda">Dodaj Ponudu</a>
+			
+		</div>
+	</main>
+
+
+	
+
+</body>
+
+
+
+</html>

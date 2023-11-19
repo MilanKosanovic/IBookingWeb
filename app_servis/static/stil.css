@@ -1,0 +1,93 @@
+.naslov{
+	font-style: italic;
+	font-family: "Georgia",Georgia,sans-serif;
+
+}
+.telo{
+ 	background-color: rgb(211,211,211);
+
+}
+.container{
+	
+  width: 95%;
+  min-width: 400px;
+box-shadow: 0px 0px 12px black; 
+border:1px solid black; 
+margin-top:15px; 
+
+}
+.novaPonuda{
+  
+  background-image: linear-gradient(67deg, rgba(34,193,179,1) 0%, rgba(253,187,45,1) 100%);
+  border: 0;
+  float: right;
+  border-radius: 8px;
+  border-color: black;
+  box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  display: flex;
+  font-family: Phantomsans, sans-serif;
+  font-size: 15px;
+  font-style:italic;
+  justify-content: center;
+  line-height: 1em;
+  max-width: 100%;
+  min-width: 140px;
+  padding: 5px 7px;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  white-space: nowrap;
+  cursor: pointer;
+  
+}
+
+.tabelaPonude{
+	width: 100%;
+	border-collapse: collapse;
+	overflow: hidden;
+
+	box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+.tabelaDiv{
+  width: 98%;
+  overflow: hidden;
+  
+
+}
+.mainKolone{
+	padding: 15px;
+	
+	max-width: 100%;
+	font-family: "Georgia",Georgia,sans-serif;
+	background-color: #55608f;
+	color: #fff;
+}
+tr,
+td{
+	padding: 10pt;
+	position: relative;
+	text-align: center;
+}
+.cenaDiv{
+  width: 50%;
+}
+.forma{
+  font-style: "Georgia",Georgia,sans-serif;
+  font-style: italic;
+  font-size: 18pt;
+}
+.error{ 
+  border-color:red;
+  border-width: 4pt;
+
+}
+.labela{
+  margin-top:7pt;
+}
+.success{ 
+  border-color:green; 
+  border-width: 4pt;
+
+}
